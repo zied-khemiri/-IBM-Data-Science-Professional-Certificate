@@ -1,7 +1,7 @@
 # [IBM Data Science Professional Certificate](https://www.coursera.org/professional-certificates/ibm-data-science)
 
 ### [My Certificate URL](https://www.coursera.org/account/accomplishments/specialization/certificate/TH8FETGYPR6W)
-![](https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~7FDCVUSMTL89/CERTIFICATE_LANDING_PAGE~7FDCVUSMTL89.jpeg)
+![](https://github.com/zied-khemiri/-IBM-Data-Science-Professional-Certificate/blob/master/1.jpg)
 
 ---
 
